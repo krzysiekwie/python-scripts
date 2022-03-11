@@ -2,9 +2,6 @@ from tkinter import *
 
 window = Tk()
 
-# def km_to_miles():
-#     miles = float(e1_value.get())*1.6
-#     t1.insert(END,miles)
 
 def depth_of_field():
     lens_f = int(lf_value.get())
